@@ -1,0 +1,3 @@
+[submodule "npc.assets"]
+	path = npc.assets
+	url = git@github.com:CoderCoop/npc.assets.git
